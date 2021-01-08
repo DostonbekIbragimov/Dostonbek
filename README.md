@@ -12,5 +12,5 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://algo.ubtuit.uz/users/idostonbek">
-  <img align="left" alt="Leetcode" width="22px" src="chrome://favicon2/?size=24&scale_factor=1x&show_fallback_monogram=&page_url=https%3A%2F%2Falgo.ubtuit.uz%2F" />
+  <img align="left" alt="Algo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />
 </a>
