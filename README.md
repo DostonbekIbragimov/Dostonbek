@@ -39,3 +39,8 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DostonbekIbragimov&show_icons=true&hide_border=true)
+
+<br />
+<br />
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
