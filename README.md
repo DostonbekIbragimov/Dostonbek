@@ -14,7 +14,6 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 
-<br />
 ---
 ### - Languages and Tools...
 
