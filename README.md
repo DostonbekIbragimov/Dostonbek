@@ -5,5 +5,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DostonbekIbragimov&show_icons=true&hide_border=true)
 
-### You can find in me in the web 🌍
-[<img align="left" alt="DostonbekIbragimov" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://t.me/DostonbekIbragimov">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/ibragimov_dostonbekk/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://algo.ubtuit.uz/users/idostonbek">
+  <img align="left" alt="Leetcode" width="22px" src="chrome://favicon2/?size=24&scale_factor=1x&show_fallback_monogram=&page_url=https%3A%2F%2Falgo.ubtuit.uz%2F" />
+</a>
