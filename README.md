@@ -14,18 +14,14 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 
+ ---
+
 ### - Languages and Tools...
 
 <p align="center">
  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
 
 </p>
-
----
-
-
-<br />
-<br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
