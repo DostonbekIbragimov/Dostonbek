@@ -1,4 +1,6 @@
-### Hi there, I'm Dostonbek
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hi 🙋‍♂️,
+### I'm Dostonbek Ibragimov. I'm 21 years old, a Mobile Developer 🚀 from Uzbekistan.
 ### You can find in me in the web 🌍
 <a href="https://t.me/DostonbekIbragimov">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -18,9 +20,6 @@
 *************
 
 <br />
-
-### Hi 🙋‍♂️,
-### I'm Dostonbek Ibragimov. I'm 21 years old, a Mobile Developer 🚀 from Uzbekistan.
 
 
 <br />
