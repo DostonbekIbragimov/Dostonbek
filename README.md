@@ -31,7 +31,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DostonbekIbragimov&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian)
 
-[![DostonbekIbragimov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dostonbek)](https://github.com/anuraghazra/github-readme-stats)
+[![DostonbekIbragimov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dostonbek&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DostonbekIbragimov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dostonbek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
