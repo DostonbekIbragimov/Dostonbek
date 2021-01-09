@@ -31,3 +31,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DostonbekIbragimov&show_icons=true&hide_border=true)
 
+[![Dostonbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?DostonbekIbragimov=willianrod)](https://github.com/anuraghazra/github-readme-stats)
