@@ -33,6 +33,3 @@
 <a href="https://github.com/DostonbekIbragimov/DostonbekIbragimov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DostonbekIbragimov&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dostonbek's GitHub Stats" />
 </a>
-
-
-[![Dostonbek's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=DostonbekIbragimov&country_code=uzbekistan&show_private=true)](https://github.com/DostonbekIbragimov/github-readme-ranking)
